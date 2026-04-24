@@ -8,4 +8,4 @@ Do not run it if you do not wish to replace the computer
 
 So I suggest you don't run it
 
-Running it will take at least one entire cpu core(I'm really not kidding)
+Running it will take at least one entire cpu core**(I'm really not kidding)**
