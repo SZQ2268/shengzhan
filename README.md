@@ -1,4 +1,7 @@
 # shengzhan
+
+⚠️ WARNING: This code will freeze your computer if run. DO NOT EXECUTE. For educational/demo purposes only.
+
 This is a Useless app(I'm sorry my English is really not good)
 
 It has a whole useless code and code that burns the core of your CCPU
